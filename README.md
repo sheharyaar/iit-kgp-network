@@ -1,3 +1,5 @@
+🥳 This repository has been donated to MetaKGP and will be maintained there. You can visit it at [metakgp/iit-kgp-network](https://github.com/metakgp/iit-kgp-network/)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
